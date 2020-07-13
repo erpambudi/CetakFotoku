@@ -45,6 +45,7 @@
     <string name="dialog_update_transaction">Do you want to change the status of this transaction?</string>
     <string name="dialog_delete_transaction">Do you want to delete this transaction?</string>
     <string name="dialog_done_update">Data successfully changed</string>
+    <string name="dialog_exit_app">Do you want to exit the application?</string>
     <string name="dialog_done_delete">Data successfully deleted</string>
     <string name="daftar_harga">Price List</string>
     <string name="t_2_x_3">2 x 3</string>

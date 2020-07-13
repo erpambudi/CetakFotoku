@@ -45,6 +45,7 @@
     <string name="dialog_delete_transaction">Apakah Anda Ingin Menghapus Transaksi Ini?</string>
     <string name="dialog_done_update">Data berhasil di ubah</string>
     <string name="dialog_done_delete">Data berhasil di hapus</string>
+    <string name="dialog_exit_app">Apakah ingin keluar aplikasi?</string>
     <string name="daftar_harga">Daftar Harga</string>
     <string name="t_2_x_3">2 x 3</string>
     <string name="t_3_x_4">3 x 4</string>
