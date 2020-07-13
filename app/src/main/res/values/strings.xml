@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Cetak Fotoku</string>
+    <string name="title_home">Transaksi Baru</string>
+    <string name="title_dashboard">Transaksi</string>
+    <string name="title_notifications">Tim</string>
+    <string name="customer_s_name">Nama Pelanggan</string>
+    <string name="telephone">Telepon</string>
+    <string name="quantity">Kuantitas</string>
+    <string name="next">Lanjut</string>
+    <string name="total_price">Total Harga</string>
+    <string name="type">Tipe</string>
+    <string name="pay">Pembayaran</string>
+    <string name="status">Status</string>
+    <string name="change_money">uang kembalian</string>
+    <string name="submit">Kirim</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Ubah</string>
+    <string name="new_transaction">Transaksi Baru</string>
+    <string name="transactions">Transaksi</string>
+    <string name="team">Tim</string>
+    <string name="search">Pencarian</string>
+    <string name="transaction_detail">Detail Transaksi</string>
+    <string name="add_order">Tambah Pesanan</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="np">Nama Pelanggan</string>
+    <string name="tlp">Telepon</string>
+    <string name="kts">Kuantitas</string>
+    <string name="tp">Tipe</string>
+    <string name="tpembayaran">Total Pembayaran</string>
+    <string name="pbayar">Pembayaran</string>
+    <string name="stts">Status</string>
+    <string name="up">Uang Kembalian</string>
+    <string name="dialog_add_transaction">Tambahkan Transaksi Ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="loading">Loading</string>
+    <string name="data_added">Data berhasil di tambahkan</string>
+    <string name="name_not_null">Nama tidak boleh kosong</string>
+    <string name="telepon_not_null">Telepon tidak boleh kosong</string>
+    <string name="quantity_not_null">Jumlah tidak boleh kosong</string>
+    <string name="payment_not_null">Pembayaran tidak boleh kosong</string>
+    <string name="choose_photo_size">Pilih ukuran cetak foto</string>
+    <string name="select_transaction_status">Pilih status transaksi</string>
+    <string name="dialog_update_transaction">Apakah Anda Ingin Mengubah Status Transaksi Ini?</string>
+    <string name="dialog_delete_transaction">Apakah Anda Ingin Menghapus Transaksi Ini?</string>
+    <string name="dialog_done_update">Data berhasil di ubah</string>
+    <string name="dialog_done_delete">Data berhasil di hapus</string>
+    <string name="daftar_harga">Daftar Harga</string>
+    <string name="t_2_x_3">2 x 3</string>
+    <string name="t_3_x_4">3 x 4</string>
+    <string name="t_4_x_6">4 x 6</string>
+    <string name="t_2_r">2 R</string>
+    <string name="t_3_r">3 R</string>
+    <string name="t_4_r">4 R</string>
+    <string name="t_5_r">5 R</string>
+    <string name="t_6_r">6 R</string>
+    <string name="t_8_r">8 R</string>
+    <string name="t_10_r">10 R</string>
+    <string name="t_1000">: 1000</string>
+    <string name="t_1500">: 1500</string>
+    <string name="t_2000">: 2000</string>
+    <string name="t_2500">: 2500</string>
+    <string name="t_3000">: 3000</string>
+    <string name="t_4000">: 4000</string>
+    <string name="t_6000">: 6000</string>
+    <string name="t_8000">: 8000</string>
+    <string name="t_10000">: 10000</string>
+    <string name="t_12000">: 12000</string>
+
+    <string-array name="type">
+        <item>- Pilih ukuran cetak -</item>
+        <item>2 x 3</item>
+        <item>3 x 4</item>
+        <item>4 x 6</item>
+        <item>2 R</item>
+        <item>3 R</item>
+        <item>4 R</item>
+        <item>5 R</item>
+        <item>6 R</item>
+        <item>8 R</item>
+        <item>10 R</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>-- Silakan pilih status -</item>
+        <item>Proses</item>
+        <item>Selesai</item>
+        <item>Dibatalkan</item>
+    </string-array>
+
+</resources>
